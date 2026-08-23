@@ -1,2 +1,0 @@
-# ghostreport
-Workflow Automation
